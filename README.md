@@ -30,6 +30,8 @@ First, please follow below method to prepare your development environment, you c
 $ pip install opencv-contrib-python
 $ pip install openvino openvino-dev onnx
 $ pip install torch==1.13.1 #important
+$ pip install segment_anything
+$ pip install gradio>=3.25
 ```
 SAM Model url: https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth 
 
