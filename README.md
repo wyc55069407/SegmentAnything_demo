@@ -1,6 +1,6 @@
-# Stable Diffusion Inpaint Controlnet Pipeline + Roop
+# Segment Anything with OpenVino
 
-This proj is a demo to run segment anything on OpenVino.
+This proj is a demo to run segment anything on OpenVino which can make use of Intel GPU acceleration.
 
 You can running demo through:
  1. sam.ipynb
